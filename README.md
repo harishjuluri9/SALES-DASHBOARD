@@ -47,6 +47,8 @@ This dashboard helps management **monitor sales performance, improve strategy, a
 
 ## 📷 Dashbord preview
 ![car sales dashboard](https://github.com/user-attachments/assets/fcbbf41c-6b71-4168-85ff-50f2f4247148)
+![car sales report](https://github.com/user-attachments/assets/54a7a1ff-d1f8-471f-8d57-31385e0b4609)
+
 
 
 
