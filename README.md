@@ -46,6 +46,9 @@ It helps users understand **total sales, profit, cars sold, top brands, monthly 
 This dashboard helps management **monitor sales performance, improve strategy, and make data-driven decisions**.
 
 ## 📷 Dashbord preview
+![car sales dashboard](https://github.com/user-attachments/assets/fcbbf41c-6b71-4168-85ff-50f2f4247148)
+
+
 
 ## 🔗 Author
 
